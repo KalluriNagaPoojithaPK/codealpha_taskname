@@ -40,3 +40,5 @@ git remote add origin https://github.com/your-username/quotes-scraper.git
 
 7. Push your code
 git push -u origin main
+<img width="1738" height="507" alt="Image" src="https://github.com/user-attachments/assets/70be2595-8c6a-4bb5-8258-d89486864dd1" />
+
